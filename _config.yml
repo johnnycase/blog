@@ -21,7 +21,7 @@
 title: John Case's Blog
 email: johneverettcase@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  John Case personal blog about technical topics.
+  2021 John Case
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://johnnycase.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lejohncase
