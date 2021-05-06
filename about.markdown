@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tech Writing Thoughts
+title: About
 permalink: /about/
 ---
 
